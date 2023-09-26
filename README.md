@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Dhiraj Mahato
-- 🌱 I’m currently learning full stack Data science
+- 🌱 I’m currently learning full stack Data science and NLP
 - 👯 I’m looking to collaborate on Open Source Projects and Hackathons
 - 🤔 I’m looking for help with Advance Data Science Projects
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/dhirajkrmahato) <a href="mailto:dhiraj.mahato.iitbhu@gmail.com">Email</a>
